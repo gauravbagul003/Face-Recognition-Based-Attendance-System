@@ -1,5 +1,5 @@
 # Face-Recognition-Based-Attendance-System
-__init__.py file should contain---------
+__init__.py file should contain--------- (copy paste all into __init__.py file)
 '''
 OpenCV Python binary extension loader
 '''
